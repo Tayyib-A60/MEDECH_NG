@@ -1,3 +1,9 @@
+
+html {
+    background: #11998e;
+    background: -webkit-linear-gradient(to right, #38ef7d, #22b6aa);
+    background: linear-gradient(to right, #38ef7d, #22b6aa);
+}
 body {
     font-family: 'Open Sans Condensed';
     padding: 20px 60px;
